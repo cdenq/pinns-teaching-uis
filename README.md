@@ -69,11 +69,12 @@ Setup virtual environments
 ```sh
 conda create --name harmonic-pinns
 conda activate harmonic-pinns
-pip install -r requirements1.txt
+conda install jupyter numpy matplotlib pytorch torchvision torchaudio -c pytorch
 
 conda create --name burgers-pinns
 conda activate burgers-pinns
-pip install -r requirements2.txt
+conda install jupyter numpy matplotlib 
+conda install -c conda-forge deepxde
 ```
 
 Locate the appropriate `.ipynb` file within the repo and then select the matching kernel before running.
