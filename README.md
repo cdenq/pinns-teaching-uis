@@ -73,7 +73,7 @@ conda install jupyter numpy matplotlib pytorch torchvision torchaudio -c pytorch
 
 conda create --name burgers-pinns
 conda activate burgers-pinns
-conda install jupyter numpy matplotlib paddlepaddle==2.6.0 --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+conda install jupyter numpy matplotlib pandas paddlepaddle==2.6.0 --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
 conda install -c conda-forge deepxde
 ```
 
