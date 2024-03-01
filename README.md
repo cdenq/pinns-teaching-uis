@@ -48,7 +48,7 @@
 <a name="exe-sum"></a>
 # Executive Summary
 
-The follow is the companion GitHub repo for our research paper "A Meshfree Deep Learning Approach for Numerical Solution of Differential Equations". This is provided as-is for math faculty, educators, and students alike to use in teaching PINNs, deep learning, and differential equations in their classroom settings.
+The following is the companion GitHub repo for our research paper "A Meshfree Deep Learning Approach for Numerical Solution of Differential Equations". This is provided as-is for math faculty, educators, and students alike to use in teaching PINNs, deep learning, and differential equations in their classroom settings.
 
 <!-- ABOUT THE PROJECT -->
 <a name="started"></a>
