@@ -11,7 +11,7 @@
   <h3 align="center">PINNs Teaching</h3>
 
   <p align="center">
-    A companion GitHub repo to the research paper deployed <a href="https://cdenq-fda-food-violation-score-predictor-app-bimc4d.streamlit.app/">here</a>.
+    A companion GitHub repo to the research paper, pre-print draft <a href="https://cdenq.github.io/downloads/pinns-paper.pdf/">here</a>.
     <br>
     <br>
     <a href="https://github.com/cdenq/">GitHub Home</a>
@@ -48,7 +48,7 @@
 <a name="exe-sum"></a>
 # Executive Summary
 
-The following is the companion GitHub repo for our research paper "A Meshfree Deep Learning Approach for Numerical Solution of Differential Equations". This is provided as-is for math faculty, educators, and students alike to use in teaching PINNs, deep learning, and differential equations in their classroom settings.
+The following is the companion GitHub repo for our research paper "A Meshfree Deep Learning Approach for Numerical Solution of Differential Equations". This is provided as-is for math faculty, educators, and students alike to use in teaching PINNs, deep learning, and differential equations in their classroom settings. This repo is not intended to be "production-ready" or a "complete, self-guided tour", but rather, is a **supplemental resource in understanding our paper**.
 
 <!-- ABOUT THE PROJECT -->
 <a name="started"></a>
