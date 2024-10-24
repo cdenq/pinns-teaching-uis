@@ -119,7 +119,7 @@ Special thanks to Ben Mosely for the original harmonic oscilation example and th
 <a name="contact"></a>
 # Contact
 
-To directly message me or setup a time to chat virtually, see my [LinkedIn](https://www.linkedin.com/in/christopherdenq/) and [Calendly](https://calendly.com/christopherkd/coffee-chats) links.
+To directly message me or setup a time to chat virtually, see my [LinkedIn](https://www.linkedin.com/in/cdenq/) and [Calendly](https://calendly.com/christopherkd/coffee-chats) links.
 
 If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://github.com/cdenq).
 
