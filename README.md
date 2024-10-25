@@ -11,7 +11,7 @@
   <h3 align="center">PINNs Teaching</h3>
 
   <p align="center">
-    A companion GitHub repo to the research paper, pre-print draft <a href="https://cdenq.github.io/downloads/pinns-paper.pdf/">here</a>.
+    A companion GitHub repo to the research paper, pre-print draft <a href="">here</a> (link pending revision).
     <br>
     <br>
     <a href="https://github.com/cdenq/">GitHub Home</a>
