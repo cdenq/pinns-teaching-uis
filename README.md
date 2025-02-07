@@ -119,8 +119,6 @@ Special thanks to Ben Mosely for the original harmonic oscilation example and th
 <a name="contact"></a>
 # Contact
 
-To directly message me or setup a time to chat virtually, see my [LinkedIn](https://www.linkedin.com/in/cdenq/) and [Calendly](https://calendly.com/christopherkd/coffee-chats) links.
-
-If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://github.com/cdenq).
+To directly message me or setup a time to chat virtually, see my [contact page](https://github.com/cdenq#contact).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
