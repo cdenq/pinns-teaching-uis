@@ -11,7 +11,7 @@
   <h3 align="center">PINNs Teaching</h3>
 
   <p align="center">
-    <a href="https://github.com/cdenq/pinns-teaching-uis">Report Bug</a>
+    <a href="https://github.com/cdenq/pinns-teaching-uis/issues">Report Bug</a>
   </p>
 </div>
 
